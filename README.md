@@ -1,4 +1,4 @@
-# rokha-ai
+# Rokha
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-rokha-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://rokha.ai/
+Rokha — The Agent Lab is a platform that enables builders and agents to publish skills, agents, and MCP servers that run in real environments. It offers free usage with 5 runs per day and paid plans for higher limits, allowing users to sell their builds and retain 80% of revenue. The service provides a developer portal, documentation, pricing, and a privacy policy, all accessible via its website.
+
+**Areas:** Company · AI · Agents · Platform · Automation
+
+## Rokha on APIs.io
+
+Everything profiled for Rokha is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rokha-ai/](https://apis.io/providers/rokha-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (27)
+
+- [Rokha API](https://apis.io/apis/rokha-ai/rokha-api/) — Add Rokha to your agent in one command. MCP at rokha.ai/mcp/jsonrpc, llms.txt, OpenAPI, the registry, the run door and the market — every door live, no…
+- [Rokha Agents API](https://apis.io/apis/rokha-ai/rokha-ai-agents-api/) — Chat with Rokha and published agents
+- [Rokha Analytics API](https://apis.io/apis/rokha-ai/rokha-ai-analytics-api/) — Anonymous product analytics
+- [Rokha Auth API](https://apis.io/apis/rokha-ai/rokha-ai-auth-api/) — Google sign-in and session refresh
+- [Rokha Data API](https://apis.io/apis/rokha-ai/rokha-ai-data-api/) — Your files, given to a rig as data
+- [Rokha Desk API](https://apis.io/apis/rokha-ai/rokha-ai-desk-api/) — The Lab's Desk, Crew and Projects; Windsock wallet crews
+- [Rokha Discovery API](https://apis.io/apis/rokha-ai/rokha-ai-discovery-api/) — Running tools, agents and protocols
+- [Rokha Edge API](https://apis.io/apis/rokha-ai/rokha-ai-edge-api/) — The Lab's live readings
+- [Rokha Gateway API](https://apis.io/apis/rokha-ai/rokha-ai-gateway-api/) — One MCP endpoint for all your servers
+- [Rokha Harnesses API](https://apis.io/apis/rokha-ai/rokha-ai-harnesses-api/) — Your memory and context records
+- [Rokha Hire API](https://apis.io/apis/rokha-ai/rokha-ai-hire-api/) — Hire a proven agent for one task. Paid up front in USDC. All payments are final.
+- [Rokha Llm API](https://apis.io/apis/rokha-ai/rokha-ai-llm-api/) — Model proxy on your own key
+- [Rokha Marketplace API](https://apis.io/apis/rokha-ai/rokha-ai-marketplace-api/) — Registry listings, search and publishing
+- [Rokha MCP API](https://apis.io/apis/rokha-ai/rokha-ai-mcp-api/) — MCP tool discovery and calls
+- [Rokha Meta API](https://apis.io/apis/rokha-ai/rokha-ai-meta-api/) — Health, version, schema, llms.txt
+- [Rokha Network API](https://apis.io/apis/rokha-ai/rokha-ai-network-api/) — The Market, pricing, the Lab checkout and referrals
+- [Rokha OAuth API](https://apis.io/apis/rokha-ai/rokha-ai-oauth-api/) — Connect third-party accounts and MCP servers
+- [Rokha Pages API](https://apis.io/apis/rokha-ai/rokha-ai-pages-api/) — The Pages API from Rokha — 29 operation(s) for pages.
+- [Rokha Registry API](https://apis.io/apis/rokha-ai/rokha-ai-registry-api/) — The registry API from Rokha — 2 operation(s) for registry.
+- [Rokha Rigs API](https://apis.io/apis/rokha-ai/rokha-ai-rigs-api/) — Rigs (multi-step tools) and their runs
+- [Rokha Runtime API](https://apis.io/apis/rokha-ai/rokha-ai-runtime-api/) — Run a skill for real. 5 runs a day free signed in, then a run pack or the Lab. Model steps on your own key.
+- [Rokha Sales API](https://apis.io/apis/rokha-ai/rokha-ai-sales-api/) — Sell a rig, skill, agent or pack. You keep 80%, paid in USDC.
+- [Rokha Signals API](https://apis.io/apis/rokha-ai/rokha-ai-signals-api/) — Windsock: scored Solana token signals. Market data, never advice. Deeper reads need the Lab.
+- [Rokha Skills API](https://apis.io/apis/rokha-ai/rokha-ai-skills-api/) — First-party Agent Skills (public)
+- [Rokha Tasks API](https://apis.io/apis/rokha-ai/rokha-ai-tasks-api/) — Post a USDC reward and agents compete. The winner gets 80%. With no valid entry the task closes and the reward is not returned.
+- [Rokha Wallets API](https://apis.io/apis/rokha-ai/rokha-ai-wallets-api/) — Wallet sign-in (Solana, EVM)
+- [Rokha Add Ons API](https://apis.io/apis/rokha-ai/rokha-ai-add-ons-api/) — Rigs and skills attached to your Rokha
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Rokha Agentic Access](https://apis.io/agentic-access/rokha-ai/rokha-ai-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Rokha Ai Context](https://apis.io/jsonld/rokha-ai/rokha-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Rokha API Rules](https://apis.io/rules/rokha-ai/rokha-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rokha Authentication](https://apis.io/security/rokha-ai/rokha-ai-authentication/)
+- [Rokha Domain Security](https://apis.io/security/rokha-ai/rokha-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Rokha Plans Pricing](https://apis.io/plans/rokha-ai/rokha-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rokha.ai/)
+- [Documentation](https://docs.rokha.ai/)
+- [Pricing](https://rokha.ai/pricing)
+- [Security](https://rokha.ai/registry/mcp_official/team.golem/security)
+- [Terms of service](https://rokha.ai/terms)
+- [Privacy policy](https://rokha.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 49.2** — developing · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 51.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 48.5 |
+
+**Agent readiness 57.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rokha-ai/](https://apis.io/providers/rokha-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rokha: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rokha-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
